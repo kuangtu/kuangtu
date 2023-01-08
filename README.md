@@ -2,7 +2,7 @@
 - 👀 I’m interested in stock market system with High availability,high performance and Scalability.
 - 🌱 I’m currently learning distributed system design adn Go.
 - 💞️ I’m looking to collaborate on  stock market system.
-- 📫 How to reach me: kuangtuweb@gmail.com
+- 📫 How to reach me: kuangtuweb@gmail.com，微信号：moxuansheng
 
 <!---
 kuangtu/kuangtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
